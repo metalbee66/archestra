@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.2.34](https://github.com/archestra-ai/archestra/compare/platform-v1.2.33...platform-v1.2.34) (2026-05-06)
+
+
+### Features
+
+* add file upload knowledge connector ([#3924](https://github.com/archestra-ai/archestra/issues/3924)) ([9069119](https://github.com/archestra-ai/archestra/commit/9069119ce16a2892c5e8ea1dc6bd1481b15e966d))
+
+
+### Miscellaneous Chores
+
+* allow search in add & reuse connector dialogs ([#4246](https://github.com/archestra-ai/archestra/issues/4246)) ([1189478](https://github.com/archestra-ai/archestra/commit/118947855275038c0d96882bfb75eb76ab37e437))
+
 ## [1.2.33](https://github.com/archestra-ai/archestra/compare/platform-v1.2.32...platform-v1.2.33) (2026-05-05)
 
 
